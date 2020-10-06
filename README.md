@@ -6,4 +6,4 @@ The application features Firebase Authentication with Email verification. Users 
 The users can upload their photos, and then review them. Each user can save photos under his id, thus other users cannot see someone else's photos.
 ## Fetched images are shown in a recycler view, with each item clickable
 The users can click each item in a recycler view and then can perform basic operations such as zoom in / zoom out.
-## Screenshots are available in the respected folder
+## Screenshots are available here(https://github.com/Prakhar-Rathore/Firebase_Testing_App/tree/master/Screenshots)
